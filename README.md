@@ -5,7 +5,7 @@ I'm currently working as a DevOps / Cloud Engineer always trying to learn new st
 ---
 
 - 🔭 I’m currently working on ... Azure, Automation, PowerShell, IaC (Bicep)
-- 🌱 I’m currently learning ... Security design principles
+- 🌱 I’m currently learning ... Security Architecture design principles
 - 👯 I’m looking to collaborate ... On IaC best practices and standards
 - 📫 Ask me about ... PowerShell and we will probably have a good talk
 - ❤  I love to ... Spend time in the gym 🏋️
