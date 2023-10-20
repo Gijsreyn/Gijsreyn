@@ -56,5 +56,3 @@ I'm currently working as a DevOps / Cloud Engineer always trying to learn new st
 <img src="https://img.icons8.com/ios-filled/35/powershell.png"/>
 <img src="https://img.icons8.com/emoji/35/flexed-biceps.png"/>
 </p>
-
-I'm glad Jon Favreau gave us Grogu.
