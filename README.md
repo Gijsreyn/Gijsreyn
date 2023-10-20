@@ -57,4 +57,4 @@ I'm currently working as a DevOps / Cloud Engineer always trying to learn new st
 <img src="https://img.icons8.com/emoji/35/flexed-biceps.png"/>
 </p>
 
-Oh... one last thing. Baby Grogu is awesome!
+I'm glad Jon Favreau gave us Grogu.
