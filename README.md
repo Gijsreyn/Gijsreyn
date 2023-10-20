@@ -12,6 +12,35 @@ I'm currently working as a DevOps / Cloud Engineer always trying to learn new st
 - 🪒 Would love to ... Learn C#
 - ✍️ I write on ... [Medium.com](https://medium.com/@gijsreijn), [Rabo Tech Blog](https://rabobank.jobs/en/techblog/coding-architecture/), [The Lonely Engineer](https://thelonelyengineer.com/)
 
+### Certifications and Badges
+<p align="center">
+ <a>
+    <img style="float:right" src="https://images.credly.com/size/340x340/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" width="100"> 
+ </a>
+</p>
+<p align="center">
+ <a>
+   <img src="https://images.credly.com/size/340x340/images/0ba22331-acf9-4e8a-8ce3-b4cc3d376040/image.png" width="100">
+   <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="100" >
+ </a>
+</p>
+<p align="center">
+ <a>
+   <img src=https://images.credly.com/size/340x340/images/9383e4b7-dbc0-4618-be67-3cd02fba948a/image.png width="100">
+   <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="100"> 
+   <img src="https://images.credly.com/size/340x340/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png" width="100"> 
+ </a>
+</p>
+
+<p align="center">
+  <a>
+     <img src="https://images.credly.com/size/340x340/images/863b781b-4c02-47e9-bb31-11a2a1e2fd79/image.png" width="100">
+     <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" width="100"> 
+     <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100"> 
+     <img src="https://images.credly.com/size/340x340/images/edc0b0d8-55ec-4dfe-9353-22c1bc4e07e8/azure-database-administrator-associate-600x600.png" width="100"> 
+   </a>
+</p>
+
 ### You can connect with me:
 
 <p align="left">  
