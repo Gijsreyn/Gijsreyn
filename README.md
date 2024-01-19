@@ -43,11 +43,7 @@ I'm currently working as a DevOps / Cloud Engineer, or whatever the modern title
 
 ### Books written
 
- <p align="center">
-  <a>
-    [<img src=".media/docs_as_code_primer.png" width="100">](https://leanpub.com/thedocsascodeprimer)
-  </a>
- </p>
+[<img src=".media/docs_as_code_primer.png">](https://leanpub.com/thedocsascodeprimer)
 
 ### You can connect with me:
 
