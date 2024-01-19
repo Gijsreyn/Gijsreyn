@@ -45,7 +45,7 @@ I'm currently working as a DevOps / Cloud Engineer, or whatever the modern title
 
  <p align="center">
   <a>
-    <img src="https://d2sofvawe08yqg.cloudfront.net/thedocsascodeprimer/s_hero?1704179280" width="100">
+    [<img src=".media/docs_as_code_primer.png" width="100">](https://leanpub.com/thedocsascodeprimer)
   </a>
  </p>
 
