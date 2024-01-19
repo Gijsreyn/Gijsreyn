@@ -1,6 +1,6 @@
 ### Hi, I'm Gijs Reijn 👋
 
-I'm currently working as a DevOps / Cloud Engineer always trying to learn new stuff in the IT landscape and share it with others
+I'm currently working as a DevOps / Cloud Engineer, or whatever the modern title may be these days. Always trying to learn new technologies and tools in the broad IT landscape and share it with others.
 
 ---
 
@@ -40,6 +40,14 @@ I'm currently working as a DevOps / Cloud Engineer always trying to learn new st
      <img src="https://images.credly.com/size/340x340/images/edc0b0d8-55ec-4dfe-9353-22c1bc4e07e8/azure-database-administrator-associate-600x600.png" width="100"> 
    </a>
 </p>
+
+### Written 
+
+ <p align="center">
+  <a>
+    <img src="https://d2sofvawe08yqg.cloudfront.net/thedocsascodeprimer/s_hero?1704179280" width="100">
+  </a>
+ </p>
 
 ### You can connect with me:
 
