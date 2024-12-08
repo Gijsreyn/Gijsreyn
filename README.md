@@ -39,4 +39,4 @@ In addition to my GitHub contributions, I also share my insights and experiences
 
 ## GitHub Stats 🐙
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gijsreyn)](https://github.com/gijsreyn/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gijsreyn&show_icons=true&theme=dark)](https://github.com/gijsreyn/github-readme-stats)
