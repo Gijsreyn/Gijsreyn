@@ -1,6 +1,6 @@
 # Hi, I'm Gijs :wave:
 
-I'm an IT professional who loves to make life easier by automation as much as possible. My passion has grown to share my learnings through blog posts or making contributions to open-source projects in various technologies. Some of the technologies I enjoy working the most with include PowerShell, Azure Bicep, Azure DevOps, WinGet, and Azure. Despite my drive for these technologies, I don't want to limit myself and am always open to learning more.
+I'm an IT professional who loves to make life easier by automation as much as possible. My passion has grown to share my learnings through blog posts or making contributions to open-source projects in various technologies. Some of the technologies I enjoy working the most with include PowerShell, Azure Bicep, Azure DevOps, WinGet, and Azure. Despite my drive for these technologies, I don't want to limit myself and am always open to learning more. In 2025, I have become a Microsoft MVP in the PowerShell and Windows category.
 
 ---
 
